@@ -1,0 +1,4 @@
+﻿  OpenMP_MNA.cpp
+C:\Users\Daniel\Documents\MNA_Computo_En_La_Nube\OpenMP_MNA\OpenMP_MNA\OpenMP_MNA.cpp(17,5): warning C4101: 'i': unreferenced local variable
+C:\Users\Daniel\Documents\MNA_Computo_En_La_Nube\OpenMP_MNA\OpenMP_MNA\OpenMP_MNA.cpp(88,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  OpenMP_MNA.vcxproj -> C:\Users\Daniel\Documents\MNA_Computo_En_La_Nube\OpenMP_MNA\x64\Debug\OpenMP_MNA.exe
